@@ -1,14 +1,14 @@
 <div align="center">
   <a href="https://github.com/NatanBarbosa2">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NatanBarbosa2&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatanBarbosa2&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NatanBarbosa2&show_icons=true&theme=dark&include_all_commits=true&count_private=true>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatanBarbosa2&layout=compact&langs_count=7&theme=dark>
 </div>
   
 <div style=""><br>
   <img align="center" alt="Natã-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Natã-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Natã-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-plain.svg" />
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-plain.svg"/>
   <img align="center" alt="Natã-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg">
 
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/originals/e1/08/9a/e1089abaa68e3947338d74319dde48d4.gif">
