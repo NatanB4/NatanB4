@@ -26,16 +26,16 @@ import { useState } from 'react'
 
 export default function Experience() {
 
-const [lastUpdate, setLastUpdate] = useState("2022/03/30")
+const [lastUpdate, setLastUpdate] = useState("2022/06/13")
 
 return (
     <MyExperienceAge myLevel="Junior">
         <JavaScript age={2}>
-        <Node age={1}/>
+        <Node age={2}/>
         <React age={0}/>
         <Next age={0}/>
         <Csharp age={0}/>
-        <Python age={1}/>
+        <Python age={2}/>
         <HTML age={1}/>
         <CSS age={1}/>
         <p>Thanks for seeing this far - Last uptade: {lastUptade} </p>        
