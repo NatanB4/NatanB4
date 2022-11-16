@@ -30,9 +30,9 @@ const [lastUpdate, setLastUpdate] = useState("2022/06/13")
 
 return (
     <MyExperienceAge myLevel="Junior">
-        <JavaScript age={2}>
-        <Node age={2}/>
-        <React age={0}/>
+        <JavaScript age={3}>
+        <Node age={3}/>
+        <React age={1}/>
         <Next age={0}/>
         <Csharp age={0}/>
         <Python age={2}/>
