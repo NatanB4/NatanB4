@@ -49,11 +49,6 @@
 
 ---
 
-<div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatanBarbosa2&layout=compact&langs_count=7&theme=radical"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=natanBarbosa2&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-</div>
-
 ---
     
   <a href = "mailto:natanbarbosa027@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
