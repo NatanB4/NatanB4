@@ -48,6 +48,8 @@
     </div>
 
 ---
+![Natã GitHub stats](https://github-readme-stats.vercel.app/api?username=natanb4&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natanb4&layout=compact&theme=radical)
 
 ---
     
