@@ -4,8 +4,6 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -18,45 +16,6 @@
  > 
 > 🔑 5 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                2642 commits        ███████░░░░░░░░░░░░░░░░░░   26.06 % 
-🌆 Daytime                6380 commits        ████████████████░░░░░░░░░   62.94 % 
-🌃 Evening                796 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 % 
-🌙 Night                  319 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   2000 commits        █████░░░░░░░░░░░░░░░░░░░░   19.73 % 
-Tuesday                  1550 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.29 % 
-Wednesday                2220 commits        █████░░░░░░░░░░░░░░░░░░░░   21.90 % 
-Thursday                 2125 commits        █████░░░░░░░░░░░░░░░░░░░░   20.96 % 
-Friday                   2068 commits        █████░░░░░░░░░░░░░░░░░░░░   20.40 % 
-Saturday                 82 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
-Sunday                   92 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Sao_Paulo
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -74,7 +33,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/NatanB4/NatanB4/main/assets/bar_graph.png)
 
 
- Last Updated on 11/04/2024 02:37:12 UTC
+ Last Updated on 11/04/2024 03:34:45 UTC
 <!--END_SECTION:waka-->
     
   <a href="mailto:natanbarbosa027@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
