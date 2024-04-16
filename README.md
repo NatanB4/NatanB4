@@ -4,7 +4,7 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-37%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-37%20hrs%2019%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
 
@@ -84,7 +84,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/NatanB4/NatanB4/main/assets/bar_graph.png)
 
 
- Last Updated on 16/04/2024 00:49:00 UTC
+ Last Updated on 16/04/2024 01:53:46 UTC
 <!--END_SECTION:waka-->
     
   <a href="mailto:natanbarbosa027@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
