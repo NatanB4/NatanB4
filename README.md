@@ -4,15 +4,13 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-76%20hrs%2045%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-76%20hrs%2058%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 104.1 kB Used in GitHub's Storage 
- > 
-> 🏆 178 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -24,17 +22,17 @@
 
 ```text
 🌞 Morning                2644 commits        ██████░░░░░░░░░░░░░░░░░░░   25.93 % 
-🌆 Daytime                6435 commits        ████████████████░░░░░░░░░   63.11 % 
-🌃 Evening                799 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
+🌆 Daytime                6436 commits        ████████████████░░░░░░░░░   63.11 % 
+🌃 Evening                799 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 % 
 🌙 Night                  319 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
 Monday                   2009 commits        █████░░░░░░░░░░░░░░░░░░░░   19.70 % 
-Tuesday                  1575 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.45 % 
+Tuesday                  1575 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.44 % 
 Wednesday                2218 commits        █████░░░░░░░░░░░░░░░░░░░░   21.75 % 
-Thursday                 2140 commits        █████░░░░░░░░░░░░░░░░░░░░   20.99 % 
+Thursday                 2141 commits        █████░░░░░░░░░░░░░░░░░░░░   20.99 % 
 Friday                   2081 commits        █████░░░░░░░░░░░░░░░░░░░░   20.41 % 
 Saturday                 82 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
 Sunday                   92 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
@@ -85,7 +83,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/NatanB4/NatanB4/main/assets/bar_graph.png)
 
 
- Last Updated on 02/05/2024 19:34:56 UTC
+ Last Updated on 02/05/2024 20:35:19 UTC
 <!--END_SECTION:waka-->
     
   <a href="mailto:natanbarbosa027@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
