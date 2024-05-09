@@ -6,13 +6,11 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-80%20hrs%2030%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 104.1 kB Used in GitHub's Storage 
- > 
-> 🏆 183 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -85,7 +83,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/NatanB4/NatanB4/main/assets/bar_graph.png)
 
 
- Last Updated on 09/05/2024 16:38:32 UTC
+ Last Updated on 09/05/2024 17:34:47 UTC
 <!--END_SECTION:waka-->
     
   <a href="mailto:natanbarbosa027@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
