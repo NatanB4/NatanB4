@@ -12,8 +12,6 @@
 
 > 📦 104.1 kB Used in GitHub's Storage 
  > 
-> 🏆 183 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 22 Public Repositories 
@@ -85,7 +83,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/NatanB4/NatanB4/main/assets/bar_graph.png)
 
 
- Last Updated on 10/05/2024 01:51:07 UTC
+ Last Updated on 10/05/2024 02:40:31 UTC
 <!--END_SECTION:waka-->
     
   <a href="mailto:natanbarbosa027@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
