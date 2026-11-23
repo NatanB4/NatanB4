@@ -2,7 +2,7 @@
 
 Back-end Software Engineer at [@FacileSistemas](https://github.com/FacileSistemas) · Brazil
 
-Focused on back-end architecture, financial and banking integrations, transactional consistency, and asynchronous processing.
+Focused on back-end architecture, financial and banking integrations, transactional consistency, and asynchronous processing. Outside work: ARPGs, music, and building things with personality.
 
 ## Tech Stack
 
@@ -11,12 +11,11 @@ Focused on back-end architecture, financial and banking integrations, transactio
 - **Data & Infra:** PostgreSQL, Redis, Docker, AWS (S3, Secrets Manager), GitHub Actions
 - **Front-end:** React, Next.js
 
-## Selected Public Repositories
+## Currently Hacking On
 
-- **[boleto.ts](https://github.com/NatanB4/boleto.ts)** - Brazilian boleto billing and parsing utilities
-- **[comment-system-in-nest-js](https://github.com/NatanB4/comment-system-in-nest-js)** - Comment system API built with NestJS and TypeScript
-- **[roleplay-api](https://github.com/NatanB4/roleplay-api)** - Back-end API for managing tabletop RPG tables
-- **[auto-ggmax](https://github.com/NatanB4/auto-ggmax)** - Browser automation extension
+- **[Torchlight-Tracker](https://github.com/NatanB4/Torchlight-Tracker)** *(fork / study)* - Reference web tool for Torchlight Infinite inventory valuation, log tracking, and currency-per-hour metrics
+- **PoE 2 Tracker** *(in R&D)* - Researching how to build a genuinely useful Path of Exile 2 session & drop tracker without spreadsheet bloat
+- **Untitled Music Project** *(cooking)* - Saving the cherry on top for last: still shaping the exact concept, built to stand out
 
 ## Contact
 
