@@ -13,6 +13,7 @@ Focused on back-end architecture, financial and banking integrations, transactio
 
 ## Currently Hacking On
 
+- **Ministro da Economia** *(private)* - Personal finance assistant for couples: a NestJS + Discord bot that syncs bank accounts and credit cards via Open Finance (Pluggy), splits the shared card bill, plans next month's payments, and advises what to prepay
 - **[Torchlight-Tracker](https://github.com/NatanB4/Torchlight-Tracker)** *(fork / study)* - Reference web tool for Torchlight Infinite inventory valuation, log tracking, and currency-per-hour metrics
 - **PoE 2 Tracker** *(in R&D)* - Researching how to build a genuinely useful Path of Exile 2 session & drop tracker without spreadsheet bloat
 - **Untitled Music Project** *(cooking)* - Saving the cherry on top for last: still shaping the exact concept, built to stand out
